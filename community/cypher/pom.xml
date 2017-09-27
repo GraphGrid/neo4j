@@ -6,12 +6,12 @@
   <parent>
     <groupId>org.neo4j</groupId>
     <artifactId>parent</artifactId>
-    <version>3.2.5</version>
+    <version>3.3.0-beta02</version>
     <relativePath>../..</relativePath>
   </parent>
 
   <artifactId>cypher-parent</artifactId>
-  <version>3.2.5</version>
+  <version>3.3.0-beta02</version>
   <packaging>pom</packaging>
   <name>Neo4j - Community Cypher Build</name>
   <description>Project that builds the Neo4j Cypher modules as part of the Community distribution.</description>
